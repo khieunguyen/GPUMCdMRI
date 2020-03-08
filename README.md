@@ -5,6 +5,6 @@ Efficient GPU-based Monte-Carlo simulation of diffusion MRI
 
 ### The alpha version (Visual studio projects) can be found here: https://drive.google.com/open?id=1LQCJITIWmS4nSMqTky2Tbn7w7C5iH7G4
 
-This code was successfully tested in Ubuntu 16.04 and Windows 7 professional.
+This code was tested in Ubuntu 16.04 and Windows 7 professional.
 
 Email: nvkhieu89-at-gmail-dot-com
